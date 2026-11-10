@@ -718,7 +718,6 @@ btn.TextSize = 14
 btn.Text = "Unload Flashbang"
 btn.AutoButtonColor = true
 btn.Parent = uiGui
-Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 8)
 
 local moved = false
 do
